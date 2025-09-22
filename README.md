@@ -1,5 +1,3 @@
 hi
 
-!(images/image.png)
-
-<img src="images/image.png" alt="サンプル画像" width="300">
+<img src="image/image1.png" alt="Rasutoma Mobile" width="300">

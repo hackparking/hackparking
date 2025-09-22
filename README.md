@@ -1,4 +1,4 @@
 hi
 
-![Rasutoma Mobile](images/image.png)
+!(images/image.png)
 
